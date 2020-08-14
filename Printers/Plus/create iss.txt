@@ -1,0 +1,1 @@
+E:\installscript\InstallScript-1.5\PrinterDriver\Plus\GPlus_PCL6_Driver_V221_32_64_00\x64\GPlus_PCL6_Driver_V221_32_64_00.exe -r f1E:\installscript\InstallScript-1.5\PrinterDriver\Plus\plus.iss
